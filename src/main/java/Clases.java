@@ -1,7 +1,7 @@
 public class Clases {
 
     public static void main(String[] args) {
-
+        //prueba
         if (args.length == 0){
             System.out.println("Faltan argumentos");
             System.exit(1);
